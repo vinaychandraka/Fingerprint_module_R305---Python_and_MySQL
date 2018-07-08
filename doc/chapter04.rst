@@ -6,7 +6,7 @@ Uploading finger templates to databse
 
 .. image:: /doc/image/result1.jpg
 
-Databse Updated
+Database Updated
 ---------------
 
 .. image:: /doc/image/result2.jpg
